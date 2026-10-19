@@ -1,0 +1,17 @@
+{
+  "name": "Hunter Systeem",
+  "short_name": "Hunter",
+  "description": "Dagelijkse quests voor beweging, community en verbinding.",
+  "lang": "nl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#04060c",
+  "theme_color": "#04060c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
